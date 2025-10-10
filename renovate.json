@@ -1,5 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:base"],
   "helmv3": {
     "constraints": {
       "allowedVersions": "3.6.0"
