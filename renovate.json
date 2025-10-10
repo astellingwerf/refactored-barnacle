@@ -3,9 +3,7 @@
   "extends": [
     "config:recommended"
   ],
-  "helmv3": {
-    "constraints": {
-      "allowedVersions": "3.6.0"
-    }
+  "constraints": {
+    "helm": "3.6.0"
   }
 }
