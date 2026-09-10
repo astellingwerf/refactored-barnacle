@@ -4,6 +4,6 @@
     "config:recommended"
   ],
   "constraints": {
-    "helm": "3.6.0"
+    "helm": "3.22.0"
   }
 }
